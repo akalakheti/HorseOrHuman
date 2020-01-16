@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276845039079",
+    "firebase_url": "https://appfirebaseproject-fc9e7.firebaseio.com",
+    "project_id": "appfirebaseproject-fc9e7",
+    "storage_bucket": "appfirebaseproject-fc9e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276845039079:android:89ba5ffe70b3161b7a8142",
+        "android_client_info": {
+          "package_name": "com.rachin.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276845039079-go4so552qg9a9hob5j79vvcosi41rt3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rachin.app",
+            "certificate_hash": "ad232aef51a71dc06f2611312d4f56e850c9f120"
+          }
+        },
+        {
+          "client_id": "276845039079-p45ke0qmdm6j603ks2jmpa8h6u0tshp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOKUWq_aowY0j-mV8eteSWdVn6vugaeoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276845039079-p45ke0qmdm6j603ks2jmpa8h6u0tshp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
